@@ -40,6 +40,7 @@ AI-Driven-Personal-Financial-Manager/
 ├── backend/          # Flask server and API
 ├── modelling/        # AI models and relevant python files for financial predictions
 ├── dataset/          # Sample data and preprocessed data
+├── database          #for postgresql
 ├── README.md         # Project overview (you are here!)
 ```
 
