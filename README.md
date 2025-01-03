@@ -79,11 +79,6 @@ AI-Driven-Personal-Financial-Manager/
    npm install
    npm start
    ```
-
-4. **Database Setup**:
-
-   - Create a PostgreSQL database and update credentials in `backend/config.py`.
-
 ---
 
 ## 📊 Usage
