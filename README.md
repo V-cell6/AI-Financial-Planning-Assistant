@@ -17,8 +17,6 @@ Whether you’re planning to save for a big purchase or manage day-to-day expens
 - **Expense Categorization**: Automatically categorize expenses using AI.
 - **Budget Monitoring**: Set and monitor financial goals.
 - **Actionable Insights**: Get personalized recommendations to improve savings.
-- **Visualization**: Beautiful charts and graphs to track your financial health.
-- **Security**: Data privacy with encryption.
 
 ---
 
