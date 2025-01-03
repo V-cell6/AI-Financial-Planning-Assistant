@@ -90,7 +90,7 @@ AI-Driven-Personal-Financial-Manager/
 
 ## 📊 Usage
 
-1. Navigate to the frontend interface: `http://localhost:3000`
+1. Navigate to the frontend interface
 2. Sign up and connect your bank account (via Plaid API).
 3. Start tracking your expenses and view insights.
 
