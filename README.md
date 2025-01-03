@@ -1,12 +1,8 @@
-# AI-Financial-Planning-Assistant
-
-# AI-Driven Personal Financial Manager
-
-
+# FinSageAI
 
 ## 🚀 Overview
 
-The **AI-Driven Personal Financial Manager** is a cutting-edge application designed to help users gain control over their finances. Leveraging artificial intelligence and data analytics, this project provides:
+The **FinSageAI - AI-Financial Planning Assistant** is a cutting-edge application designed to help users gain control over their finances. Leveraging artificial intelligence and data analytics, this project provides:
 
 - Automated expense tracking
 - Budget management
@@ -42,10 +38,8 @@ Whether you’re planning to save for a big purchase or manage day-to-day expens
 AI-Driven-Personal-Financial-Manager/
 ├── frontend/         # React application files
 ├── backend/          # Flask server and API
-├── models/           # AI models for financial predictions
-├── data/             # Sample data and preprocessing scripts
-├── docs/             # Documentation and resources
-├── tests/            # Unit and integration tests
+├── modelling/        # AI models and relevant python files for financial predictions
+├── dataset/          # Sample data and preprocessed data
 ├── README.md         # Project overview (you are here!)
 ```
 
